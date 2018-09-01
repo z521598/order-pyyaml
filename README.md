@@ -1,6 +1,6 @@
 # order-pyyaml
 ## 功能：  
-> 封装pyyaml用于“有序”解析/生成yaml  
+> 封装pyyaml用于“有序”解析/生成yaml  [详情查看](https://www.cnblogs.com/langshiquan/p/9569898.html)
 
 ## 背景：  
 > 在使用pyyaml时发现，当由字典dump成yaml文件时，顺序会被打乱.  

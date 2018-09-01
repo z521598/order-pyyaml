@@ -1,0 +1,14 @@
+c:
+  asd4: 4
+  asd6: 6
+  csd2: 2
+  fs3: 3
+  ioweq5: 5
+  rep1: 1
+c: !!python/object/apply:collections.OrderedDict
+- - [rep1, 1]
+  - [csd2, 2]
+  - [fs3, 3]
+  - [asd4, 4]
+  - [ioweq5, 5]
+  - [asd6, 6]
